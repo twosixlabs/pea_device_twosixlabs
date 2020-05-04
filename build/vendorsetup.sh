@@ -1,0 +1,3 @@
+add_lunch_combo pea_gsi-userdebug
+add_lunch_combo pea_gsi_ab-userdebug
+add_lunch_combo pea_gsi_a-userdebug

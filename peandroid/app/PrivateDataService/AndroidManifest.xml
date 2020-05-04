@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.twosixlabs.peandroid.privatedataservice"
+  android:sharedUserId="android.uid.system">
+
+  <application android:name=".PrivateDataServiceApp" android:persistent="true">
+    <uses-library android:name="com.twosixlabs.peandroid" />
+    <uses-library android:name="com.twosixlabs.peandroid.pal" />
+  </application>
+
+</manifest>
